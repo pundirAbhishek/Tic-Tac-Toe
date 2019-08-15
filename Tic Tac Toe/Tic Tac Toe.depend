@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1499078947 source:g:\code blocks\tic tac toe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1499079625 source:g:\code blocks\tic tac toe\computer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Computer turn.h"
+	"Check.h"
+
+1498642405 source:g:\code blocks\tic tac toe\computer turn.c
+
+1499101518 g:\code blocks\tic tac toe\computer turn.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1499105408 g:\code blocks\tic tac toe\check.h
+
+1499085899 source:g:\code blocks\tic tac toe\move.c
+
